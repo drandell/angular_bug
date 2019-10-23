@@ -60,6 +60,9 @@
           "options": {
             "browserTarget": "test-app:build"
           },
+          "compilerOptions": {
+            "target": "es5" 
+          },
           "configurations": {
             "production": {
               "browserTarget": "test-app:build:production"
